@@ -1,5 +1,7 @@
 # 📊 EcoSim: Python Economic & Population Multi-Agent Simulator
 
+<img src="demo.gif" width="500" alt="EcoSim Gameplay Demo">
+
 A dynamic simulation framework built with **Python** and **Pygame** that models complex economic systems, market mechanics (supply and demand), and autonomous agent decision-making.
 
 ## 🚀 Advanced Technical Features
